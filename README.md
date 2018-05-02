@@ -6,7 +6,31 @@
 
 [3Dモデル作成無料ソフト　sculptris](http://pixologic.com/sculptris/)
 
+---
 
+##左上の機能和訳
+
+crease[折り目]:細い線を作って谷、山を作成。
+rotate[回転]:モデル回転。選択した場所をねじる。
+scale[大きさ]:拡大縮小。選択した場所を拡大。
+draw[描く]:凸凹作成基本ツール。
+flatten[平坦]:凸凹を山型でなく、平らに作成します。
+grab[掴む]:掴んで自由に伸びチジミ
+inflate[膨らみ]:拡大とちょっと違う。拡大。
+pinch[摘まむ]:つまんでちょいちょい伸ばす。
+smooth[均す]:平らにならす。
+
+---
+
+##基本操作方法
+
+モデルに重ねずにマウス操作で、モデルを中心に回転させることができます。
+モデルを選択してマウスの左、ドラッグドロップで
+各操作をすることができます。
+
+![](https://trello-attachments.s3.amazonaws.com/5ad6d6e20e3f619029d41080/5ae1517326ad45029219b51d/029dfbf849cd5868af4a6cb8bea8e58a/2018-04-26_(1).png)
+
+![](https://trello-attachments.s3.amazonaws.com/5ad6d6e20e3f619029d41080/5ae1517326ad45029219b51d/c70f89283ba9093a5d4e891ff9b916b0/2018-04-26.png)
 
 
 [次](https://github.com/175B005/weekreport2)
